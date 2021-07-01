@@ -1,1 +1,1 @@
-# machine-learning-algos
+# ml-naive-bayes
